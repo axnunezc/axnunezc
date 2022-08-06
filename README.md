@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axnunezc
-- 👀 I’m interested in aerospace engineering and computer science!
-- 🌱 I’m currently learning front end web development!
+- 👀 I’m studying Computer Science at the University of Notre Dame!
+- 🌱 I’m currently learning Data Science in Python!
 - 📫 To reach out, email me at axnunezc@gmail.com!
 
 <!---
